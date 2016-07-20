@@ -4,4 +4,5 @@
 * git status - can be used anytime to see the current status of the repository
 * git add - places one or more files in the staging area
 * git commit - commit to repository all files in the staging area
-* git diff - shows differences between different commited versions
+* git diff - shows differences between different versions
+* git log - shows history of edits with metadata
