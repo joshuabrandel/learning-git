@@ -9,3 +9,9 @@
 * git checkout -b <branch-name> - Creates a new branch in the repository
 
 #Conclusion
+
+ ^____^
+| o  o |
+|      |
+ \ -- /
+  ----
