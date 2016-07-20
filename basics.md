@@ -6,3 +6,6 @@
 * git commit - commit to repository all files in the staging area
 * git diff - shows differences between different versions
 * git log - shows history of edits with metadata
+* git checkout -b <branch-name> - Creates a new branch in the repository
+
+#Conclusion
